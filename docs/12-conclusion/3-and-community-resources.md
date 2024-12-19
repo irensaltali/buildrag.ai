@@ -1,5 +1,7 @@
 ---
+
 sidebar_position: 3
+
 ---
 
-# The Knowledge Base
+# and Community Resources
